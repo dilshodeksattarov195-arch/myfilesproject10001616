@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cacherync",
+        "uuid": 1885872,
+        "checksum": "oqil1p"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
